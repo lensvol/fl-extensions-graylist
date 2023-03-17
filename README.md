@@ -133,8 +133,7 @@
 
 ### Chandlery for Fallen London
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/anhebaghddcipcnlgoehajobofkgghje)](https://chrome.google.com/webstore/detail/anhebaghddcipcnlgoehajobofkgghje) [![Mozilla Add-on](https://img.shields.io/amo/v/fallen-london-keybinds)](https://addons.mozilla.org/en-US/firefox/addon/fallen-london-keybinds/) ![User count](https://badges.lensvol.dev/extensions/users/fallen_london_chandlery.svg?bogus-cache-buster=yes)
-
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/anhebaghddcipcnlgoehajobofkgghje)](https://chrome.google.com/webstore/detail/anhebaghddcipcnlgoehajobofkgghje) ![User count](https://badges.lensvol.dev/extensions/users/fallen_london_chandlery.svg?bogus-cache-buster=yes)
 
 **Grab it here:** 
 
