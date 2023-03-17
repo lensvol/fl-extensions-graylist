@@ -118,6 +118,7 @@
 
 **Grab it here:** 
 
+* [GitHub](https://github.com/alanhuang122/FLWikiRedirector)
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/jnpmlogkiokkkeikkebegmefeckladpj)
 * [Mozilla Add-on Store](https://img.shields.io/amo/v/fl-wiki-redirector)
 
