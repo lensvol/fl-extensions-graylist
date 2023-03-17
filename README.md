@@ -112,6 +112,14 @@
 
 ### Independent Authors
 
+### Playing Favourites
+
+[![License](https://img.shields.io/github/license/gasovn/fl_favourites/)](https://github.com/gasovn/fl_favourites/blob/main/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/gasovn/fl_favourites) [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jkaoljkdjoecocmlnncdljoeeijlcjao)](https://chrome.google.com/webstore/detail/jkaoljkdjoecocmlnncdljoeeijlcjao) [![Mozilla Add-on](https://img.shields.io/amo/v/fallen-london-favourites)](https://addons.mozilla.org/en-US/firefox/addon/fallen-london-favourites/) ![User count](https://badges.lensvol.dev/extensions/users/fplaying_favourites_fork.svg?bogus-cache-buster=yes)
+
+* [GitHub](https://github.com/gasovn/fl_favourites)
+* [Chrome Web Store](https://chrome.google.com/webstore/detail/jkaoljkdjoecocmlnncdljoeeijlcjao)
+* [Mozilla Add-on Store](https://img.shields.io/amo/v/fallen-london-favourites)
+
 ### Fallen London Wiki Redirector
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jnpmlogkiokkkeikkebegmefeckladpj)](https://chrome.google.com/webstore/detail/jnpmlogkiokkkeikkebegmefeckladpj) [![Mozilla Add-on](https://img.shields.io/amo/v/fl-wiki-redirector)](https://addons.mozilla.org/en-US/firefox/addon/fl-wiki-redirector/) ![User count](https://badges.lensvol.dev/extensions/users/fl_wiki_redirector.svg?bogus-cache-buster=yes)
