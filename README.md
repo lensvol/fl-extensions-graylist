@@ -96,7 +96,7 @@
 
 **Grab it here:** 
 
-* [GitHub](https://github.com/lensvol/fl-map-colorizer
+* [GitHub](https://github.com/lensvol/fl-map-colorizer)
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/fl-map-colorizer/dkiiphcmedakdjkpepbjhnehapmikpmf)
 * [Mozilla Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/fl-map-coloriser)
 
