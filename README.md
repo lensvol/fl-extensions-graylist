@@ -125,6 +125,11 @@
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pllehomkaepknkjficnkemogahbnebol)](https://chrome.google.com/webstore/detail/fallen-london-keybinds/pllehomkaepknkjficnkemogahbnebol) [![Mozilla Add-on](https://img.shields.io/amo/v/fallen-london-keybinds)](https://addons.mozilla.org/en-US/firefox/addon/fallen-london-keybinds/) ![User count](https://badges.lensvol.dev/extensions/users/fallen_london_keybinds.svg?bogus-cache-buster=yes)
 
+**Grab it here:** 
+
+* [Chrome Web Store](https://chrome.google.com/webstore/detail/fallen-london-keybinds/pllehomkaepknkjficnkemogahbnebol)
+* [Mozilla Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/fallen-london-keybinds/)
+
 ### Chandlery for Fallen London
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/anhebaghddcipcnlgoehajobofkgghje)](https://chrome.google.com/webstore/detail/anhebaghddcipcnlgoehajobofkgghje) [![Mozilla Add-on](https://img.shields.io/amo/v/fallen-london-keybinds)](https://addons.mozilla.org/en-US/firefox/addon/fallen-london-keybinds/) ![User count](https://badges.lensvol.dev/extensions/users/fallen_london_chandlery.svg?bogus-cache-buster=yes)
