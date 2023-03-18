@@ -122,7 +122,7 @@
 
 ### Fallen London Wiki Redirector
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jnpmlogkiokkkeikkebegmefeckladpj)](https://chrome.google.com/webstore/detail/jnpmlogkiokkkeikkebegmefeckladpj) [![Mozilla Add-on](https://img.shields.io/amo/v/fl-wiki-redirector)](https://addons.mozilla.org/en-US/firefox/addon/fl-wiki-redirector/) ![User count](https://badges.lensvol.dev/extensions/users/fl_wiki_redirector.svg?bogus-cache-buster=yes)
+[![License](https://img.shields.io/github/license/alanhuang122/FLWikiRedirector)](https://github.com/alanhuang122/FLWikiRedirector/blob/main/LICENSE) [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jnpmlogkiokkkeikkebegmefeckladpj)](https://chrome.google.com/webstore/detail/jnpmlogkiokkkeikkebegmefeckladpj) [![Mozilla Add-on](https://img.shields.io/amo/v/fl-wiki-redirector)](https://addons.mozilla.org/en-US/firefox/addon/fl-wiki-redirector/) ![User count](https://badges.lensvol.dev/extensions/users/fl_wiki_redirector.svg?bogus-cache-buster=yes)
 
 **Grab it here:** 
 
