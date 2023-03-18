@@ -141,10 +141,11 @@
 
 ### Chandlery for Fallen London
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/anhebaghddcipcnlgoehajobofkgghje)](https://chrome.google.com/webstore/detail/anhebaghddcipcnlgoehajobofkgghje) ![User count](https://badges.lensvol.dev/extensions/users/fallen_london_chandlery.svg?bogus-cache-buster=yes)
+[![License](https://img.shields.io/github/license/kav2k/chandlery)](https://github.com/kav2k/chandlery/blob/main/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/kav2k/chandlery) [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/anhebaghddcipcnlgoehajobofkgghje)](https://chrome.google.com/webstore/detail/anhebaghddcipcnlgoehajobofkgghje) ![User count](https://badges.lensvol.dev/extensions/users/fallen_london_chandlery.svg?bogus-cache-buster=yes)
 
 **Grab it here:** 
 
+* [GitHub](https://github.com/kav2k/chandlery)
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/anhebaghddcipcnlgoehajobofkgghje)
 
 ## Part 2: Things that No Longer Work
