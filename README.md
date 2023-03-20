@@ -149,6 +149,6 @@
 * [GitHub](https://github.com/kav2k/chandlery)
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/anhebaghddcipcnlgoehajobofkgghje)
 
-## Part 2: Things that No Longer Work
+## Part 2: Things of Historical Interest
 
 ## Part 3: Development Tools
