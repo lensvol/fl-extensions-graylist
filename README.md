@@ -152,3 +152,37 @@
 ## Part 2: Things of Historical Interest
 
 ## Part 3: Development Tools
+
+### FL Identica
+
+[![License](https://img.shields.io/github/license/lensvol/fl-identica)](https://github.com/lensvol/fl-identica/blob/master/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lensvol/fl-identica) 
+
+
+**Grab it here:** 
+
+* [GitHub](https://github.com/lensvol/fl-identica)
+
+### FL Request Sounder
+
+[![License](https://img.shields.io/github/license/lensvol/fl-request-sounder)](https://github.com/lensvol/fl-request-sounder/blob/master/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lensvol/fl-request-sounder)
+
+
+**Grab it here:** 
+
+* [GitHub](https://github.com/lensvol/fl-request-sounder)
+
+
+### FL Quality Lantern
+
+[![License](https://img.shields.io/github/license/lensvol/fl-quality-lantern)](https://github.com/lensvol/fl-quality-lantern/blob/master/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lensvol/fl-quality-lantern)  
+
+**Grab it here:** 
+
+* [GitHub](https://github.com/lensvol/fl-quality-lantern)
+
+
+### FL Log Analyzer
+
+**Grab it here:** 
+
+* [GitHub](https://github.com/kkotenko/fl-log-analyzer)
