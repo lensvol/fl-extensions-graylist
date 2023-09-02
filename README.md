@@ -155,7 +155,7 @@
 
 ### FL Identica
 
-[![License](https://img.shields.io/github/license/lensvol/fl-identica)](https://github.com/lensvol/fl-identica/blob/master/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lensvol/fl-identica) 
+[![License](https://img.shields.io/github/license/lensvol/fl-identica)](https://github.com/lensvol/fl-identica/blob/master/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lensvol/fl-identica) [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/kckfejnllhglopjigaackehagipaihlo)](https://chrome.google.com/webstore/detail/fl-small-mercies/efcjeepmkepahpaodagjlioagpganblf) [![Mozilla Add-on](https://img.shields.io/amo/v/fl-identica)](https://addons.mozilla.org/en-US/firefox/addon/fl-identica/) ![User count](https://raw.githubusercontent.com/lensvol/fl-extensions-graylist/main/static/badges/counts/fl_identica.svg?bogus-cache-buster=yes)
 
 
 **Grab it here:** 
